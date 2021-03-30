@@ -25,6 +25,6 @@ module.exports = {
   },
   logging: true,
   extra: {
-    ssl: false,
+    ssl: true,
   },
 };
